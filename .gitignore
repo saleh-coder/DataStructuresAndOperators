@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+
+# Compilados e build
+dist/
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
